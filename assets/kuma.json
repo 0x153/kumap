@@ -1,0 +1,398 @@
+[
+    {
+      "name": "クマ出没情報　令和5年12月14日（木曜日）（御幸町4丁目）",
+      "type": "目撃情報",
+      "confirmedTime": "2023-12-14T14:30",
+      "description": "御幸町4丁目の峰田土建（株）東側の田んぼでクマ（成獣）1頭",
+      "latitude": 35.978755,
+      "longitude": 136.189943,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/NoSeisaku0120231214.html"
+    },
+    {
+      "name": "令和5年12月11日　月曜日　クマ情報",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-12-11T14:30",
+      "description": "御幸町4丁目の黒津川沿いの民家周辺の道路上でクマ（成獣）の痕跡（足跡）",
+      "latitude": 35.98032,
+      "longitude": 136.19014,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231211.html"
+    },
+    {
+      "name": "クマ出没情報　令和5年12月11日（月曜日）（御幸町1丁目）",
+      "type": "目撃情報",
+      "confirmedTime": "2023-12-11T08:10",
+      "description": "御幸町1丁目の浅水川沿い（左岸）でクマ（成獣）1頭",
+      "latitude": 35.979302,
+      "longitude": 136.199367,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/kuma_R51211-2.html"
+    },  
+    {
+      "name": "クマ痕跡情報　令和5年12月10日（日曜日）（御幸町4丁目）",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-12-10T13:00",
+      "description": "御幸町4丁目の峰田土建㈱付近の道路上で、クマの痕跡（足跡）",
+      "latitude": 35.98053,
+      "longitude": 136.191211,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231210.html"
+    },  
+    {
+      "name": "クマ痕跡情報　令和5年12月9日（土曜日）（御幸町4丁目）",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-12-09T10:30",
+      "description": "御幸町4丁目の黒津川沿いの民家の庭先でクマの痕跡（足跡）",
+      "latitude": 35.980530,
+      "longitude": 136.191211,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/NoSeisaku0120231209.html"
+    }, 
+    {
+      "name": "令和5年12月8日　クマ目撃情報",
+      "type": "目撃情報",
+      "confirmedTime": "2023-12-08T06:30",
+      "description": "水落東第2公園付近でクマ（成獣）1頭の目撃",
+      "latitude": 35.959795,
+      "longitude": 136.1860571,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231208bear.html"
+    },    
+    {
+      "name": "令和5年12月6日　水曜日　クマ情報",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-12-06T09:47",
+      "description": "落井町の河和田川沿いの民家の庭先でクマの痕跡",
+      "latitude": 35.95331,
+      "longitude": 136.2405,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231206.html"
+    }, 
+    {
+      "name": "クマ出没情報　令和5年12月5日（火曜日）（河和田町）",
+      "type": "目撃情報",
+      "confirmedTime": "2023-12-04T17:40",
+      "description": "河和田町北側の山際民家付近でクマ（幼獣）1頭",
+      "latitude": 35.951075,
+      "longitude": 136.268323,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231205.html"
+    }, 
+    {
+      "name": "令和5年12月4日　月曜日　クマ情報",
+      "type": "目撃情報",
+      "confirmedTime": "2023-12-04T07:45",
+      "description": "片山町の八幡神社でクマ（成獣か幼獣かは不明）1頭",
+      "latitude": 35.94871,
+      "longitude": 136.27629,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231204.html"
+    },
+    {
+      "name": "令和5年12月3日　日曜日　クマ情報",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-12-03T08:40",
+      "description": "落井町の山際の民家付近でクマの痕跡（糞、爪痕）",
+      "latitude": 35.95422,
+      "longitude": 136.23757,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231203.html"
+    },
+    {
+      "name": "クマ出没情報　令和5年11月26日（日曜日）（片山町・西袋町）",
+      "type": "目撃情報",
+      "confirmedTime": "2023-11-26T20:00",
+      "description": "河和田小学校の南側の道路でクマ（成獣）1頭",
+      "latitude": 35.95237,
+      "longitude": 136.279286,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/kuma_R51126.html"
+    },
+    {
+      "name": "令和5年11月24日　金曜日　クマ情報",
+      "type": "目撃情報",
+      "confirmedTime": "2023-11-23T02:04",
+      "description": "莇生田町の莇生田スキー場近くの民家付近でクマ（成獣）1頭",
+      "latitude": 35.945627,
+      "longitude": 136.278135,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231124.html"
+    },
+    {
+      "name": "クマ出没情報　令和5年11月22日（水曜日）（西袋町）",
+      "type": "目撃情報",
+      "confirmedTime": "2023-11-22T20:05",
+      "description": "西袋町西側の山際の民家カキの木でクマ（成獣）1頭",
+      "latitude": 35.958646,
+      "longitude": 136.266153,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/NoSeisaku0120231122.html"
+    },
+    {
+      "name": "クマ出没情報　令和5年11月20日（月曜日）（磯部町）",
+      "type": "目撃情報",
+      "confirmedTime": "2023-11-20T17:30",
+      "description": "磯部町東側の山際の民家付近で親子クマ2頭",
+      "latitude": 35.960100,
+      "longitude": 136.241483,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/NoSeisaku0120231120.html"
+    },
+    {
+      "name": "クマ出没情報　令和5年11月19日（日曜日）（北中町）",
+      "type": "目撃情報",
+      "confirmedTime": "2023-11-19T17:30",
+      "description": "北中町の天神川近くの空き地でクマ（成獣）1頭",
+      "latitude": 35.95629,
+      "longitude": 136.285432,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/NoSeisaku0120231119.html"
+    },
+    {
+      "name": "クマ痕跡情報　令和5年11月19日（日曜日）（莇生田町）",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-19T14:20",
+      "description": "莇生田町の山際の民家付近でクマの痕跡（爪あと・枝折れ、足跡）",
+      "latitude": 35.946832,
+      "longitude": 136.275977,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/120231119144055926.html"
+    },
+    {
+      "name": "クマ痕跡情報　令和5年11月19日（日曜日）（河和田町）",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-19T08:40",
+      "description": "河和田町の山際の民家付近でクマの痕跡（糞）",
+      "latitude": 35.948043,
+      "longitude": 136.2646367,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/0120231119103.html"
+    },
+    {
+      "name": "令和5年11月17日　金曜日　クマ情報",
+      "type": "目撃情報",
+      "confirmedTime": "2023-11-17T17:00",
+      "description": "磯部町東側の山際の民家付近で親子クマ2頭",
+      "latitude": 35.96002,
+      "longitude": 136.24183,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231117.html"
+    },
+    {
+      "name": "令和5年11月16日　木曜日　クマ情報",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-16T09:40",
+      "description": "河和田町の河和田郵便局近くの民家付近でクマの痕跡（糞）",
+      "latitude": 35.951906,
+      "longitude": 136.271652,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/202311160940.html"
+    },
+    {
+      "name": "令和5年11月16日　木曜日　クマ情報",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-16T09:30",
+      "description": "河和田小学校近くの民家でクマの痕跡（糞）",
+      "latitude": 35.95155,
+      "longitude": 136.27751,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/202311160800.html"
+    },
+    {
+      "name": "令和5年11月15日　水曜日　クマ情報",
+      "type": "目撃情報",
+      "confirmedTime": "2023-11-15T11:20",
+      "description": "上戸口町山際集落付近でクマ（亜成獣）1頭",
+      "latitude": 35.969411,
+      "longitude": 136.259426,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231115.html"
+    },
+    {
+      "name": "クマ痕跡情報　令和5年11月14日（火曜日）（片山町）",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-14T16:00",
+      "description": "片山町八幡橋近くの民家付近でクマの痕跡（糞）",
+      "latitude": 35.94933,
+      "longitude": 136.27529,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/2023111417133.html"
+    },
+    {
+      "name": "クマ痕跡情報　令和5年11月14日（火曜日）（河和田町）",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-14T16:00",
+      "description": "河和田町北西方向の道路沿いでクマの痕跡（糞）",
+      "latitude": 35.95038,
+      "longitude": 136.26893,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231114164731.html"
+    },
+    {
+      "name": "クマ痕跡情報　令和5年11月14日（火曜日）（河和田町）",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-14T00:25",
+      "description": "河和田町北西方向の道路沿いでクマの痕跡（糞）",
+      "latitude": 35.94971,
+      "longitude": 136.26960,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231114164731.html"
+    },
+    {
+      "name": "クマ痕跡情報　令和5年11月14日（火曜日）（莇生田町）",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-14T12:20",
+      "description": "莇生田町多目的集会場近くの民家付近の柿の木でクマの痕跡（爪あと・枝折れ）",
+      "latitude": 35.946832,
+      "longitude": 136.275977,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/kuma_R51114-1.html"
+    },
+    {
+      "name": "クマ目撃情報　令和5年11月13日（月曜日）（片山町）",
+      "type": "目撃情報",
+      "confirmedTime": "2023-11-13T17:00",
+      "description": "片山町八幡神社付近の住宅敷地内の柿の木でクマ（亜成獣）1頭",
+      "latitude": 35.94966,
+      "longitude": 136.26052,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/NoSeisaku0120231113.html"
+    },
+    {
+      "name": "クマ痕跡情報　令和5年11月13日(月曜日)河和田町",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-13T10:00",
+      "description": "河和田町の河和田郵便局近くの民家付近でクマの痕跡（爪痕、糞)",
+      "latitude": 35.95059,
+      "longitude": 136.27140,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/202311131102.html"
+    },
+    {
+      "name": "令和5年11月12日　日曜日　クマ情報",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-12T07:00",
+      "description": "中戸口町集落北側でクマの痕跡（糞）",
+      "latitude": 35.96095,
+      "longitude": 136.24898,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231112.html"
+    },
+    {
+      "name": "令和5年11月11日　土曜日　クマ情報",
+      "type": "目撃情報",
+      "confirmedTime": "2023-11-11T09:30",
+      "description": "河和田町明正寺北側畑でクマ（成獣）1頭",
+      "latitude": 35.95182,
+      "longitude": 136.26885,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/202311112225.html"
+    },
+    {
+      "name": "令和5年11月11日　土曜日　クマ情報",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-11T17:42",
+      "description": "中戸口町集落北側でクマの痕跡（糞）",
+      "latitude": 35.96076,
+      "longitude": 136.24954,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/202311111610.html"
+    },
+    {
+      "name": "令和5年11月11日　土曜日　クマ情報",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-11T09:10",
+      "description": "別司町山際の民家付近でクマの痕跡（糞）",
+      "latitude": 35.9949581,
+      "longitude": 136.257611,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/202311110830.html"
+    },
+    {
+      "name": "令和5年11月11日　土曜日　クマ情報",
+      "type": "目撃情報",
+      "confirmedTime": "2023-11-11T06:00",
+      "description": "寺中町 憶念寺付近でクマ（成獣）1頭",
+      "latitude": 35.958639,
+      "longitude": 136.28851,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231111.html"
+    },
+    {
+      "name": "クマ目撃・痕跡情報　令和5年11月10日(金曜日)別司町",
+      "type": "目撃情報",
+      "confirmedTime": "2023-11-10T04:15",
+      "description": "別司町の山ぎわ民家付近でクマ（成獣）1頭",
+      "latitude": 35.94966,
+      "longitude": 136.26052,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/202311101022.html"
+    },
+    {
+      "name": "クマ目撃・痕跡情報　令和5年11月10日(金曜日)別司町",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-10T08:00",
+      "description": "別司町の山ぎわ民家付近でクマの痕跡（糞）",
+      "latitude": 35.94884,
+      "longitude": 136.26251,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/202311101022.html"
+    },
+    {
+      "name": "クマ痕跡情報　令和5年11月10日(金曜日)中戸口町",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-10T09:20",
+      "description": "中戸口町の山ぎわ民家付近でクマの痕跡（糞）",
+      "latitude": 35.95968,
+      "longitude": 136.24892,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/202311100951.html"
+    },
+    {
+      "name": "クマ痕跡情報　令和5年11月10日(金曜日)中戸口町",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-10T09:20",
+      "description": "中戸口町の山ぎわ民家付近でクマの痕跡（糞）",
+      "latitude": 35.959238,
+      "longitude": 136.249540,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/202311100951.html"
+    },
+    {
+      "name": "クマ痕跡情報　令和5年11月8日(水曜日)(別司町）",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-08T07:15",
+      "description": "別司町の山ぎわ民家付近でクマの痕跡（糞、足跡）",
+      "latitude": 35.94979,
+      "longitude": 136.25572,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/2023110810495.html"
+    },
+    {
+      "name": "クマ痕跡情報　令和5年11月6日(月曜日)(河和田町）",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-11-05T16:30",
+      "description": "河和田町の山ぎわ民家付近の市道でクマの痕跡（糞）",
+      "latitude": 35.94795,
+      "longitude": 136.26468,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/2023110810495.html"
+    },
+    {
+      "name": "令和5年10月31日　火曜日　クマ情報",
+      "type": "目撃情報",
+      "confirmedTime": "2023-10-31T18:40",
+      "description": "別司町 山際付近道路でクマ（成獣）1頭",
+      "latitude": 35.949082,
+      "longitude": 136.25705,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20231031.html"
+    },
+    {
+      "name": "クマ出没情報　令和5年10月31日（火曜日）（別司町）",
+      "type": "目撃情報",
+      "confirmedTime": "2023-10-31T06:00",
+      "description": "別司町の山際の民家付近でクマ（成獣）1頭",
+      "latitude": 35.950074,
+      "longitude": 136.256788,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/kuma_R51031.html"
+    },
+    {
+      "name": "令和5年10月26日　木曜日　クマ情報",
+      "type": "痕跡情報",
+      "confirmedTime": "2023-10-26T06:00",
+      "description": "別司町の山ぎわ付近の民家でクマの痕跡（糞）",
+      "latitude": 35.94884,
+      "longitude": 136.26224,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/kuma1026.html"
+    },
+    {
+      "name": "クマ目撃情報　令和5年10月24日（火曜日）（別司町）",
+      "type": "目撃情報",
+      "confirmedTime": "2023-10-24T19:20",
+      "description": "別司町 沢正眼鏡付近でクマ（幼獣）1頭",
+      "latitude": 35.949073,
+      "longitude": 136.256740,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/NoSeisaku0120231024.html"
+    },
+    {
+      "name": "クマ出没情報　令和5年10月4日（水曜日）（三床山）",
+      "type": "目撃情報",
+      "confirmedTime": "2023-10-04T16:40",
+      "description": "三床山頂上付近の登山道でクマ（成獣）1頭",
+      "latitude": 35.94731,
+      "longitude": 136.128075,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/R5_bear1004.html"
+    },
+    {
+      "name": "クマ出没情報　令和5年6月11日（土曜日）（上河内町）",
+      "type": "目撃情報",
+      "confirmedTime": "2023-06-11T08:57",
+      "description": "上河内町の桃源清水で親子グマ2頭",
+      "latitude": 35.94196,
+      "longitude": 136.31923,
+      "url": "https://www.city.sabae.fukui.jp/anzen_anshin/chojuhigaitaisaku/kuma-taisaku/kumasyutubotu/20230611-2.html"
+    }
+]
